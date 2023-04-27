@@ -74,7 +74,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 ## NAME: MANOJ KARTHIK R
 ## REG NO: 212222240061
-
+```
 #include "main.h"
 
 void SystemClock_Config(void);
@@ -162,7 +162,7 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif
 
 
-
+```
 
 ## Output screen shots of proteus  :
 ![image](https://user-images.githubusercontent.com/119560395/234826602-72545008-52dc-4f1c-b04d-a2feab375f40.png)
