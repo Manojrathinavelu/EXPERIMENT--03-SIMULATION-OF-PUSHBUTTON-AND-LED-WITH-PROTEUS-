@@ -71,12 +71,11 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 
 
 ## STM 32 CUBE PROGRAM :
-
-
 ```
-
-## NAME: MANOJ KARTHIK R
-## REG NO: 212222240061
+*/
+Developed By : Manoj karthik R
+Reg No : 212222240061
+/* 
 
 #include "main.h"
 #include "stdio.h"
@@ -195,19 +194,20 @@ void assert_failed(uint8_t *file, uint32_t line)
 #endif 
 ```
 
+
+
 ## Output screen shots of proteus  :
 
-## LED IS OFF:
-![Screenshot 2023-04-29 161759](https://user-images.githubusercontent.com/119560395/235299008-d857256e-a6a8-46a4-ba01-f526f0bd917c.png)
-
-
-## LED IS ON:
-![image](https://user-images.githubusercontent.com/119560395/235298852-0616c56a-5adc-4d10-a98c-30d942458708.png)
-
-
+![EX3Owhenoff](https://user-images.githubusercontent.com/119477975/234841882-9528754c-c388-4b65-acd6-4c5e2dcfc0a6.png)
+### When LED is OFF
+![EX3Owhenon](https://user-images.githubusercontent.com/119477975/234841931-9ecf0f39-dcc6-49db-af0d-e29e510366c4.png)
+### When LED is ON
 
 ## Proteus layout(Add pdf screen shot of circuit here)
-![WhatsApp Image 2023-04-27 at 15 51 40](https://user-images.githubusercontent.com/119560395/234834823-2bd4725a-e39c-4b4b-a6a2-6b8bf1e03f28.jpg)
+ 
+ ![EX03CR](https://user-images.githubusercontent.com/119477975/234841965-1001ea64-593d-415d-b4f4-b882a458e0df.png)
+
+ 
  
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
